@@ -11,8 +11,15 @@
     color: rgb(167, 31, 88);
 }
 
-.main-nobake-heading{
+.main-h1-heading{
     text-align: center;
     font-size: 50px;
+    
+}
+
+.center-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     
 }
