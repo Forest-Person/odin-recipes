@@ -29,3 +29,8 @@
     text-align: center;
     padding: 1em;
 }
+
+.dish-description {
+    text-align: center;
+    font-size: 25px;
+}
