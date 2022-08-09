@@ -1,10 +1,15 @@
 .main-heading {
-    color: rgb(197, 226, 12); 
-    text-align: center;
+    color: rgb(87, 87, 161); 
+    display:inline-flex;
+    justify-content: center;
+    border:.25em  solid green;
+    padding:.5rem;
     font-size: 50px;
-    
-    
      
+}
+
+.div-center{
+    text-align: center;
 }
 
 .main-ul-list {
