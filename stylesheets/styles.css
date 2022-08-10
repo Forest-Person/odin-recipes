@@ -63,3 +63,13 @@
     text-align: center;
     font-size: 2.188rem;
 }
+
+.steps-ol {
+
+    text-align: center;
+    text-align: left;
+    font-size: 1.563rem;
+    display: table;
+    margin: 0 auto;
+    
+}
